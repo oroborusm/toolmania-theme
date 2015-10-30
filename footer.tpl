@@ -40,72 +40,72 @@
 								<div class="owl-carousel">
 									<div class="item">
 										<a href="https://www.toolmania.cl/makita-118">
-											<img src="themes/toolmaniaV1/img/1.jpg" alt="">
+											<img src="themes/toolmania-theme/img/1.jpg" alt="">
 										</a>
 									</div>
 									<div class="item">
-                                                                                <a href="https://www.toolmania.cl/hitachi-129">
-                                                                                        <img src="themes/toolmaniaV1/img/12.jpg" alt=""
-                                                                                ></a>
-                                                                        </div>
+										<a href="https://www.toolmania.cl/hitachi-129">
+											<img src="themes/toolmania-theme/img/12.jpg" alt="">
+										</a>
+									</div>
 									<div class="item">
-                                                                                <a href="https://www.toolmania.cl/bosch-128">
-                                                                                        <img src="themes/toolmaniaV1/img/8.jpg" alt="">
-                                                                                </a>
-                                                                        </div>
+										<a href="https://www.toolmania.cl/bosch-128">
+											<img src="themes/toolmania-theme/img/8.jpg" alt="">
+										</a>
+									</div>
 									<div class="item">
-                                                                                <a href="https://www.toolmania.cl/dremel-135">
-                                                                                        <img src="themes/toolmaniaV1/img/14.jpg" alt=""
-                                                                                ></a>
-                                                                        </div>
+										<a href="https://www.toolmania.cl/dremel-135">
+											<img src="themes/toolmania-theme/img/14.jpg" alt="">
+										</a>
+									</div>
 									<div class="item">
-                                                                                <a href="https://www.toolmania.cl/buscar?controller=search&orderby=position&orderway=desc&search_query=skil&submit_search=">
-                                                                                        <img src="themes/toolmaniaV1/img/13.jpg" alt=""
-                                                                                ></a>
-                                                                        </div>
+										<a href="https://www.toolmania.cl/buscar?controller=search&orderby=position&orderway=desc&search_query=skil&submit_search=">
+											<img src="themes/toolmania-theme/img/13.jpg" alt="">
+										</a>
+									</div>
 									<div class="item">
-                                                                                <a href="https://www.toolmania.cl/kstools-120">
-                                                                                        <img src="themes/toolmaniaV1/img/2.jpg" alt="">
-                                                                                </a>
-                                                                        </div>
+										<a href="https://www.toolmania.cl/kstools-120">
+											<img src="themes/toolmania-theme/img/2.jpg" alt="">
+										</a>
+									</div>
 									<div class="item">
 										<a href="https://www.toolmania.cl/stanley-121">
-											<img src="themes/toolmaniaV1/img/3.jpg" alt="">
+											<img src="themes/toolmania-theme/img/3.jpg" alt="">
 										</a>
 									</div>
 									<div class="item">
 										<a href="#">
-											<img src="themes/toolmaniaV1/img/4.jpg" alt="">
+											<img src="themes/toolmania-theme/img/4.jpg" alt="">
 										</a>
 									</div>
 									<div class="item">
 										<a href="https://www.toolmania.cl/dewalt-119">
-											<img src="themes/toolmaniaV1/img/5.jpg" alt="">
+											<img src="themes/toolmania-theme/img/5.jpg" alt="">
 										</a>
 									</div>
 									<div class="item">
 										<a href="https://www.toolmania.cl/hyundai-123">
-											<img src="themes/toolmaniaV1/img/6.jpg" alt="">
+											<img src="themes/toolmania-theme/img/6.jpg" alt="">
 										</a>
 									</div>
 									<div class="item">
 										<a href="https://www.toolmania.cl/atg-124">
-											<img src="themes/toolmaniaV1/img/7.jpg" alt="">
+											<img src="themes/toolmania-theme/img/7.jpg" alt="">
 										</a>
 									</div>
 									<div class="item">
 										<a href="https://www.toolmania.cl/jepson-133">
-											<img src="themes/toolmaniaV1/img/9.jpg" alt="">
+											<img src="themes/toolmania-theme/img/9.jpg" alt="">
 										</a>
 									</div>
 									<div class="item">
 										<a href="https://www.toolmania.cl/technoflex-134">
-											<img src="themes/toolmaniaV1/img/10.jpg" alt=""
+											<img src="themes/toolmania-theme/img/10.jpg" alt=""
 										></a>
 									</div>
 									<div class="item">
 										<a href="https://www.toolmania.cl/cardi-132">
-											<img src="themes/toolmaniaV1/img/11.jpg" alt=""
+											<img src="themes/toolmania-theme/img/11.jpg" alt=""
 										></a>
 									</div>
 								</div>

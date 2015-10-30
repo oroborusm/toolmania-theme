@@ -98,7 +98,7 @@
 			</div>
 		{/if}
 
-		{if $logged}
+		{if $page_name === 'authentication'}
 			<div id="somedialog" class="dialog" style="display:none;">
 				<div class="dialog__overlay"></div>
 				<div class="dialog__content" style="display:none;">
@@ -106,27 +106,17 @@
 				</div>
 			</div>
 		{else}
-			{if $page_name === 'authentication'}
-				<div id="somedialog" class="dialog" style="display:none;">
-					<div class="dialog__overlay"></div>
-					<div class="dialog__content" style="display:none;">
-						<button class="action closeDialog" data-dialog-close style="display:none;">Close</button>
+			<div id="somedialog" class="dialog">
+				<div class="dialog__overlay"></div>
+				<div class="dialog__content">
+					<a class="login" href="https://www.makitaday.toolmania.cl" rel="nofollow" title="{l s='Log in to your customer account' mod='blockuserinfo'}">
+						<img src="themes/toolmaniaMobil/img/pop.jpg">
+					</a>
+					<div>
+						<button class="action closeDialog" data-dialog-close>Close</button>
 					</div>
 				</div>
-			{else}
-				<div id="somedialog" class="dialog">
-					<div class="dialog__overlay"></div>
-					<div class="dialog__content">
-						<h2><strong>Pssss</strong>, si te registras tienes un descuento</h2>
-						<a class="login" href="{$link->getPageLink('my-account', true)|escape:'html':'UTF-8'}" rel="nofollow" title="{l s='Log in to your customer account' mod='blockuserinfo'}">
-							<span>click para cupon</span>
-						</a>
-						<div>
-							<button class="action closeDialog" data-dialog-close>Close</button>
-						</div>
-					</div>
-				</div>
-			{/if}
+			</div>
 		{/if}
 		<button data-dialog="somedialog" class="trigger">o</button>
 

@@ -3547,7 +3547,7 @@ table tfoot .cart_total_voucher .price-discount {
   width: 100px;
 }
 .menuTop > li:last-child a {
-  background-image: url("https://www.toolmania.cl/public_img/hitachiMenu.jpg");
+  background-image: url("http://www.toolmania.cl/public_img/hitachiMenu.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -3559,7 +3559,7 @@ table tfoot .cart_total_voucher .price-discount {
 }
 .menuTop > li:last-child:hover a {
   background-color: #38c974 !important;
-  background-image: url("https://www.toolmania.cl/public_img/hitachiMenu.jpg");
+  background-image: url("http://www.toolmania.cl/public_img/hitachiMenu.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -5539,6 +5539,24 @@ td .sale-box {
   display: block;
   width: 100%;
 }
+.closeDialog {
+  background: #fff;
+  border: none;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  font-size: 0;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50px;
+}
+.closeDialog:before {
+  color: #5b5b5f;
+  content: '\e6fa';
+  font-family: 'icos';
+  font-size: 25px;
+}
 .dialog,
 .dialog__overlay {
   width: 100%;
@@ -5590,15 +5608,18 @@ td .sale-box {
 .dialog__content {
   background: #fff;
   min-width: 290px;
-  max-width: 560px;
+  max-width: 650px;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   filter: alpha(opacity=0);
-  padding: 4em;
+  padding: 1em;
   position: relative;
   text-align: center;
-  width: 50%;
+  width: 80%;
   z-index: 5;
+}
+.dialog__content img {
+  width: 100%;
 }
 .dialog--open .dialog__content {
   pointer-events: auto;

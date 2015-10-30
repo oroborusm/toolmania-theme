@@ -4928,6 +4928,22 @@ td
 // 		width 500px
 
 
+.closeDialog
+	background white
+	border none
+	border-radius 50%
+	font-size 0
+	height 50px
+	position absolute
+	right 0
+	top 0
+	width 50px
+	&:before
+		color otroGris
+		content '\e6fa'
+		font-family 'icos'
+		font-size 25px
+
 
 
 .dialog,
@@ -4962,14 +4978,17 @@ td
 .dialog__content {
 	background: #fff;
 	min-width: 290px;
-	max-width: 560px;
+	max-width: 650px;
 	opacity: 0;
-	padding: 4em;
+	padding: 1em;
 	position: relative;
 	text-align: center;
-	width: 50%;
+	width: 80%;
 	z-index: 5;
 }
+	.dialog__content img{
+		width: 100%;
+	}
 
 .dialog--open .dialog__content {
 	pointer-events: auto;
