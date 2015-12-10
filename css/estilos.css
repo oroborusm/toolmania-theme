@@ -3567,6 +3567,22 @@ table tfoot .cart_total_voucher .price-discount {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   filter: alpha(opacity=80);
 }
+.menuTop > li:first-child>a {
+  background: #e7192d;
+}
+.menuTop > li:first-child>a:before {
+  background: url("http://www.toolmania.cl/public_img/ofertas.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  content: '';
+  display: block;
+  left: -9px;
+  height: 27px;
+  position: absolute;
+  top: -5px;
+  width: 20px;
+}
 .menuTop > li > a {
   color: #fff;
   display: block;
