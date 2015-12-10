@@ -373,7 +373,11 @@
     filter: alpha(opacity=80);
   }
   .menuManias .menuTop > li > a {
+    background: transparent;
     color: #879193;
+  }
+  .menuManias .menuTop > li > a:before {
+    background: none;
   }
   .sub-menuDesktop {
     border: none !important;
