@@ -12,7 +12,6 @@
     transform: translateX(0);
     visibility: visible;
     width: 950px;
-    z-index: 12;
   }
   .cd-main-content {
     margin-top: 0;

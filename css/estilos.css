@@ -3547,7 +3547,7 @@ table tfoot .cart_total_voucher .price-discount {
   width: 100px;
 }
 .menuTop > li:last-child a {
-  background-image: url("http://www.toolmania.cl/public_img/hitachiMenu.jpg");
+  background-image: url("https://www.toolmania.cl/public_img/hitachiMenu.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -3559,7 +3559,7 @@ table tfoot .cart_total_voucher .price-discount {
 }
 .menuTop > li:last-child:hover a {
   background-color: #38c974 !important;
-  background-image: url("http://www.toolmania.cl/public_img/hitachiMenu.jpg");
+  background-image: url("https://www.toolmania.cl/public_img/hitachiMenu.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -3571,7 +3571,7 @@ table tfoot .cart_total_voucher .price-discount {
   background: #e7192d;
 }
 .menuTop > li:first-child>a:before {
-  background: url("http://www.toolmania.cl/public_img/ofertas.png");
+  background: url("https://www.toolmania.cl/public_img/ofertas.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;

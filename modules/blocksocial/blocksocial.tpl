@@ -73,7 +73,7 @@
 		</ul>
 		<div class="mediosPago">
 			<h4 class="tituloPagos">Medios de Pago</h4>
-			<img src="https://www.asistecar.cl/themes/asistecar-asiste_movil/secure-transbanc.png" alt="webpay"> 
+			<img src="https://www.toolmania.cl/public_img/transbank.png" alt="webpay"> 
 			
 		</div>	
 
