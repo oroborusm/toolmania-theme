@@ -98,7 +98,7 @@
 			</div>
 		{/if}
 
-		<!-- {if $page_name === 'authentication'}
+		{if $page_name === 'authentication'}
 			<div id="somedialog" class="dialog" style="display:none;">
 				<div class="dialog__overlay"></div>
 				<div class="dialog__content" style="display:none;">
@@ -109,8 +109,8 @@
 			<div id="somedialog" class="dialog">
 				<div class="dialog__overlay"></div>
 				<div class="dialog__content">
-					<a class="login" href="https://www.makitaday.toolmania.cl" rel="nofollow" title="{l s='Log in to your customer account' mod='blockuserinfo'}">
-						<img src="themes/toolmaniaMobil/img/pop.jpg">
+					<a class="login" href="http://clinica.toolmania.cl/" rel="nofollow" title="{l s='Log in to your customer account' mod='blockuserinfo'}">
+						<img src="{$img_dir}/pop/popup.jpg">
 					</a>
 					<div>
 						<button class="action closeDialog" data-dialog-close>Close</button>
@@ -118,7 +118,7 @@
 				</div>
 			</div>
 		{/if}
-		<button data-dialog="somedialog" class="trigger">o</button> -->
+		<button data-dialog="somedialog" class="trigger">o</button>
 
 		
 		<header>
