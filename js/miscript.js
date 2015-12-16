@@ -68,17 +68,17 @@ $(function(){
 	}
 
 
-	var dlgtrigger = document.querySelector( '[data-dialog]' ),
+	/*var dlgtrigger = document.querySelector( '[data-dialog]' ),
 		somedialog = document.getElementById( dlgtrigger.getAttribute( 'data-dialog' ) ),
 		dlg = new DialogFx( somedialog );
 
-	dlgtrigger.addEventListener( 'click', dlg.toggle.bind(dlg) );
+	dlgtrigger.addEventListener( 'click', dlg.toggle.bind(dlg) );*/
 
 	/*setTimeout(function() {
 		$('.dialog').addClass('dialog--open');
 	}, 5000);*/
 	
-	$('.closeDialog').on('click',function(){
+	/*$('.closeDialog').on('click',function(){
 		$('.dialog').removeClass('dialog--open');
 		$('.dialog').addClass('dialog--close');
 	});
@@ -88,6 +88,6 @@ $(function(){
 			$('.dialog').addClass('dialog--open');
 		}, 1000);
         sessionStorage.setItem('popState','shown')
-    }
+    }*/
 
 });

@@ -98,7 +98,7 @@
 			</div>
 		{/if}
 
-		{if $page_name === 'authentication'}
+		<!-- {if $page_name === 'authentication'}
 			<div id="somedialog" class="dialog" style="display:none;">
 				<div class="dialog__overlay"></div>
 				<div class="dialog__content" style="display:none;">
@@ -118,7 +118,7 @@
 				</div>
 			</div>
 		{/if}
-		<button data-dialog="somedialog" class="trigger">o</button>
+		<button data-dialog="somedialog" class="trigger">o</button> -->
 
 		
 		<header>
